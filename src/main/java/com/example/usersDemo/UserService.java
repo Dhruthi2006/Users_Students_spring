@@ -26,6 +26,7 @@ public class UserService {
     public List<User> findAll() {
         return us.findAll();
     }
+    
 
 
 }
